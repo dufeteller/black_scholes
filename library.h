@@ -1,0 +1,6 @@
+#ifndef BLACK_SCHOLES_LIBRARY_H
+#define BLACK_SCHOLES_LIBRARY_H
+
+void hello();
+
+#endif //BLACK_SCHOLES_LIBRARY_H
